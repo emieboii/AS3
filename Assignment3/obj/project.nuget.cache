@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "koa+33GDohlb7LTgbuzqkU48AeFukjBEsjVl0JLyQyTjPSKkc6jv0X6c/3Ogo/Lea+W00HDqV6OzfmvcrYN/+A==",
+  "success": true,
+  "projectFilePath": "/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/Assignment3.csproj",
+  "expectedPackageFiles": [
+    "/Users/emilgullaksen/.nuget/packages/csvhelper/27.1.1/csvhelper.27.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

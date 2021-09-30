@@ -1,0 +1,17 @@
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/bin/Debug/net5.0/Assignment3.deps.json
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/bin/Debug/net5.0/Assignment3.runtimeconfig.json
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/bin/Debug/net5.0/Assignment3.runtimeconfig.dev.json
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/bin/Debug/net5.0/Assignment3.dll
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/bin/Debug/net5.0/ref/Assignment3.dll
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/bin/Debug/net5.0/Assignment3.pdb
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/bin/Debug/net5.0/CsvHelper.dll
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/obj/Debug/net5.0/Assignment3.csproj.AssemblyReference.cache
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/obj/Debug/net5.0/Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/obj/Debug/net5.0/Assignment3.AssemblyInfoInputs.cache
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/obj/Debug/net5.0/Assignment3.AssemblyInfo.cs
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/obj/Debug/net5.0/Assignment3.csproj.CoreCompileInputs.cache
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/obj/Debug/net5.0/Assignment3.csproj.CopyComplete
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/obj/Debug/net5.0/Assignment3.dll
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/obj/Debug/net5.0/ref/Assignment3.dll
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/obj/Debug/net5.0/Assignment3.pdb
+/Users/emilgullaksen/Documents/GitHub/AS3/Assignment3/obj/Debug/net5.0/Assignment3.genruntimeconfig.cache
